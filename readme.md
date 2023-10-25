@@ -2,6 +2,10 @@
 ## Pre requsite
 * Update the `env.json` file with your Editor Directory and Game Directory **Without trailing \\**
 
+>*Note: Wherever there is a "\\" in the path add another "\\" with it.*\
+  *ex: if your path is `D:\Games\Tsw4` make it `D:\\Games\\Tsw4`*
+
+
 ## Setting up
 * Run `InitEnv -p <PluginName>`
 * Validate all the files/folders in the base directory.
