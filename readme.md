@@ -1,6 +1,6 @@
 # Environment Setup for Cooking
 ## Pre requsite
-* Update the env.json file with your Editor Directory and Game Directory **Without trailing \\**
+* Update the `env.json` file with your Editor Directory and Game Directory **Without trailing \\**
 
 ## Setting up
 * Run `InitEnv -p <PluginName>`
