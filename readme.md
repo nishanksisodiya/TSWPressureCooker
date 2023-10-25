@@ -1,5 +1,7 @@
 # Environment Setup for Cooking
 ## Pre requsite
+* For complete environment setup refer to [ligithin's tutorial](https://www.youtube.com/watch?v=fqILQwuDMJQ).\
+  Then follow below steps to setup the environment for your plugin.
 * Update the `env.json` file with your Editor Directory and Game Directory **Without trailing \\**
 
 >*Note: Wherever there is a "\\" in the path add another "\\" with it.*\
