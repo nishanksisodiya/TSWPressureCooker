@@ -1,0 +1,1 @@
+"Your_Editor_Path\TS2Prototype\Binaries\Win64\TrainSimWorldPublicEditor.exe" TS2Prototype -run=SimulateTimeTable Timetable=/Your_Plugin_Name/ScenariosFolder/TimeTableFileNameWithoutUassetExtension

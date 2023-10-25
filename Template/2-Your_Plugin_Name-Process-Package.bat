@@ -1,0 +1,6 @@
+"Your_Editor_Path\Engine\Binaries\Win64\UnrealPak.exe" -Extract Your_PressureCooker_Path\Stage\WindowsNoEditor\TS2Prototype\Content\DLC\TS2Prototype-WindowsNoEditor-Your_Plugin_Name.pak Your_PressureCooker_Path\CookedContent\Your_Plugin_Name\TS2Prototype\Plugins\DLC\Your_Plugin_Name
+copy Your_PressureCooker_Path\DLCFiles\Your_Plugin_Name.dlc Your_PressureCooker_Path\CookedContent\Your_Plugin_Name\TS2Prototype\Plugins\DLC\Your_Plugin_Name\Content
+copy Your_PressureCooker_Path\PluginManifest\Your_Plugin_Name.upluginmanifest Your_PressureCooker_Path\CookedContent\Your_Plugin_Name\TS2Prototype\Plugins\DLC
+copy Your_PressureCooker_Path\Stage\WindowsNoEditor\TS2Prototype\Plugins\DLC\Your_Plugin_Name\Your_Plugin_Name.uplugin Your_PressureCooker_Path\CookedContent\Your_Plugin_Name\TS2Prototype\Plugins\DLC\Your_Plugin_Name\
+xcopy /s Your_PressureCooker_Path\EngineContent Your_PressureCooker_Path\CookedContent\Your_Plugin_Name\ /Y
+"Your_Editor_Path\Engine\Binaries\Win64\UnrealPak.exe" "Your_Game_Path\WindowsNoEditor\TS2Prototype\Content\DLC\TS2Prototype-WindowsNoEditor-Your_Plugin_Name.pak" -compress -create=Your_PressureCooker_Path\ResponseFiles\Your_Plugin_Name_pak.txt -compress

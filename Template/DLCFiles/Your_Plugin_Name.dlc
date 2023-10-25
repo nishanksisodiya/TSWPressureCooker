@@ -1,0 +1,14 @@
+{
+    "ContentPath": "Plugins\/DLC\/Your_Plugin_Name\/Content\/",
+    "DLCDependencies": null,
+    "EpicStoreItemId": null,
+    "Files": [ ],
+    "GDKStoreId": null,
+    "LiveProductId": "00000000-0000-0000-0000-000000000000",
+    "MountPoint": "\/Your_Plugin_Name\/",
+    "Name": "Name of Your Plugin Here",
+    "PS5ContentId": null,
+    "PSNContentId": null,
+    "SteamAppId": 0,
+    "UWPProductId": null
+}

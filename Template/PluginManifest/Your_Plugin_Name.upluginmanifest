@@ -1,0 +1,28 @@
+{
+	"Contents": [
+		{
+			"File": "../../../TS2Prototype/Plugins/DLC/Your_Plugin_Name/Your_Plugin_Name.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Your_Plugin_Name",
+				"Description": "Your Plugins Description Here",
+				"Category": "Dovetail.Content",
+				"CreatedBy": "Dovetail Games",
+				"CreatedByURL": "http://www.dovetailgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": true,
+				"LocalizationTargets": [
+					{
+						"Name": "Your_Plugin_Name",
+						"LoadingPolicy": "Always"
+					}
+				]
+			}
+		},
+}

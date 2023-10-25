@@ -1,0 +1,1 @@
+"Your_PressureCooker_Path\CookedContent\Your_Plugin_Name\*.*" "..\..\..\*.*"
